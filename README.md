@@ -1,7 +1,7 @@
-# asdf
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)  
+# README Generator
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 ## Description 
-asdf
+Generates a README.md 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,20 +12,20 @@ asdf
 * [Questions](#questions)
 
 ## Installation
-asdf
+n/a
 
 ## Usage
-asdf
+n/a
 
 ## Contributions
-sdaf
+$1M donation
 
 ## Test
-asdf
+n/a
 
 ## License
-This application is licensed by Mozilla
+This application is licensed by GNU
 
 ## Questions
-For any questions you can reach me at my email: asdf
-or find me on GitHub: sdf
+For any questions you can reach me at my email: logan@logan.org
+or find me on GitHub: Logan-B@github.com
