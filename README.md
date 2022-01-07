@@ -34,4 +34,4 @@ This application is licensed by Mozilla
 
 ## Questions
 For any questions you can reach me at my email: lbonnesen@gmail.com
-or find me on GitHub: (https://github.com/Logan-Bonnesen)
+or find me on GitHub: https://github.com/Logan-Bonnesen
