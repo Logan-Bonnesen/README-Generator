@@ -27,7 +27,7 @@ n/a
 This application is licensed by Mozilla
 
 ## Walkthrough Video
-[Link to Walkthrough Video](https://watch.screencastify.com/v/M77XkWaJOAOl0Nva018W)
+[Screencastify Walkthrough Video](https://watch.screencastify.com/v/M77XkWaJOAOl0Nva018W)
 
 ## Application Screenshot
 <img src="images\screenshot-of-application-in-terminal.PNG" alt="screenshot of terminal application" height="200px" width="400px"/> 
