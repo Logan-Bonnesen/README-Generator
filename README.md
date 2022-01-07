@@ -26,6 +26,12 @@ n/a
 ## License
 This application is licensed by GNU
 
+## Walkthrough Video
+[Link to Walkthrough Video](https://watch.screencastify.com/v/M77XkWaJOAOl0Nva018W)
+
+## Application Screenshot
+<img src="images\screenshot-of-application-in-terminal.PNG" alt="screenshot of terminal application" height="200px" width="400px"/> 
+
 ## Questions
 For any questions you can reach me at my email: logan@logan.org
 or find me on GitHub: Logan-B
