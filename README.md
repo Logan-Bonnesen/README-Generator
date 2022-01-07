@@ -1,7 +1,7 @@
 # README Generator
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  
 ## Description 
-Generates a README.md file for future use
+Generates a README.md file for future use.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,19 +12,19 @@ Generates a README.md file for future use
 * [Questions](#questions)
 
 ## Installation
-clone from GitHub repo
+Installation can be completed on the command line.
 
 ## Usage
-Application is used to generate a README.md file using the answers to predetermined questions
+Application is used to generate a README.md file using the answers to predetermined questions.
 
 ## Contributions
-clone from GitHub repo
+Contributions can be made by cloning the repo and using a code editor.
 
 ## Test
 n/a
 
 ## License
-This application is licensed by GNU
+This application is licensed by Apache
 
 ## Questions
 For any questions you can reach me at my email: logan@logan.org
